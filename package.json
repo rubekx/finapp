@@ -1,0 +1,14 @@
+{
+  "name": "finan",
+  "version": "1.0.0",
+  "description": "App to personal financil control",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rub4um",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
